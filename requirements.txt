@@ -1,0 +1,8 @@
+ragas<0.2.0
+langchain
+langchain-community
+langchain-google-genai
+pypdf
+pandas
+python-dotenv
+nest_asyncio

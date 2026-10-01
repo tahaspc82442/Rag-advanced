@@ -1,0 +1,7 @@
+Category,Metric,Phase 1 Naive,Phase 2 Hybrid,Delta (Abs),Improvement (%)
+simple,context_recall,0.862,1.0,0.138,+16.02%
+simple,context_precision,0.909,0.9166,0.0077,+0.84%
+simple,faithfulness,1.0,1.0,0.0,+0.00%
+OVERALL,context_recall,0.7688,1.0,0.2312,+30.07%
+OVERALL,context_precision,0.6902,0.9166,0.2265,+32.81%
+OVERALL,faithfulness,0.9903,1.0,0.0097,+0.98%
